@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasarDatos</string>
+    <string name="mensaje1">Enhorabuena </string>
+    <string name="mensaje2"> . Tu télefono es: </string>
+</resources>

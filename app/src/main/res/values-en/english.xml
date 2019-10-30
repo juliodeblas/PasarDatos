@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassData</string>
+    <string name="mensaje1">Congratulations </string>
+    <string name="mensaje2">Your phone number is: </string>
+</resources>
